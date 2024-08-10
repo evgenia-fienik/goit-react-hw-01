@@ -1,4 +1,3 @@
-import React from 'react';
 import FriendListItem from '../components/FriendListItem';
 import css from '../components/FriendList.module.css';
 
